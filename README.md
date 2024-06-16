@@ -1,15 +1,12 @@
-## Hi there 👋
+### Hi there 👋, I'm Sadia Islam Tonni
+#### Machine and Deep Learning Researcher
+Hello, I'm Sadia Islam Tonni. I completed my B.Sc degree in Computer Science and Engineering at Daffodil International University. Currently, I am pursuing an M.Sc degree in Information Technology at Jahangirnagar University. I am actively working on developing machine learning and deep learning applications in the IT field.
 
-<!--
-**SadiaTonni02/SadiaTonni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: IT, Machine Learning, Artificial Intelligence.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Machine and Deep Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadiaTonni02)  
+
+
