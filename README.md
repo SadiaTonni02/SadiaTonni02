@@ -7,6 +7,4 @@ Skills: IT, Machine Learning, Artificial Intelligence.
 - 🔭 I’m currently working on Machine and Deep Learning 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadiaTonni02)  
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SadiaTonni02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadia-islam-tonni-929397303/)  
